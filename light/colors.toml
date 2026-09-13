@@ -1,0 +1,36 @@
+# Claude — modo claro
+# Paleta de la app de Claude (claude.ai) y la marca de Anthropic:
+#   terracota Claude #D97757 (oscurecido a #C96442 para contraste sobre crema)
+#   crema #FAF9F5 / #F0EEE6   tinta #141413 / #3D3929   apagado #87867F
+
+mode = "light"
+
+accent = "#C96442"
+selection = "#E3DFD3"
+muted = "#A9A79E"
+
+background = "#FAF9F5"
+dark_background = "#F0EEE6"
+darker_background = "#E8E6DC"
+lighter_background = "#F5F4ED"
+
+foreground = "#141413"
+dark_foreground = "#87867F"
+light_foreground = "#3D3929"
+bright_foreground = "#000000"
+
+red = "#C24C3D"
+yellow = "#A5751A"
+orange = "#C96442"
+green = "#5E7F3B"
+cyan = "#2F7F73"
+blue = "#3462A8"
+magenta = "#9B4F86"
+brown = "#6E4B33"
+
+bright_red = "#D95F4F"
+bright_yellow = "#BF8A22"
+bright_green = "#6F9447"
+bright_cyan = "#3A9587"
+bright_blue = "#4577C2"
+bright_magenta = "#B2619C"

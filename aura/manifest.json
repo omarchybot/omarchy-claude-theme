@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "answer.claude-aura",
+  "name": "Claude Aura",
+  "version": "1.0.0",
+  "author": "answer",
+  "description": "Capa animada de escritorio para el tema Claude: halos que derivan, asterisco que respira y chispas que suben. Solo se activa cuando el tema actual es Claude.",
+  "kinds": ["service"],
+  "entryPoints": { "service": "Aura.qml" }
+}
